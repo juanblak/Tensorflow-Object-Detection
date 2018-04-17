@@ -1,0 +1,5 @@
+cup
+bottle
+can
+beer
+coffee
