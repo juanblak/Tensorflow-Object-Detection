@@ -1,0 +1,13 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+image1,165,220,beer,59,86,99,144
+image119,157,325,bottle,50,109,95,266
+image125,638,364,can,106,116,281,341
+image125,638,364,can,261,102,404,341
+image150,0,0,can,174,157,223,239
+image2,334,379,beer,44,154,180,334
+image83,643,401,coffee,458,251,522,352
+image84,522,379,coffee,209,39,358,291
+image85,596,457,coffee,129,227,337,364
+image85,596,457,coffee,398,131,550,236
+image86,583,475,coffee,315,271,401,364
+image86,583,475,coffee,385,316,474,400
