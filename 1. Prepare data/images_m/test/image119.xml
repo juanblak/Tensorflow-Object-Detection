@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>test</folder>
+  <filename>image119</filename>
+  <path>E:\od\images\test\image119.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>157</width>
+    <height>325</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>50</xmin>
+      <ymin>109</ymin>
+      <xmax>95</xmax>
+      <ymax>266</ymax>
+    </bndbox>
+  </object>
+</annotation>

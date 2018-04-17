@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>image114</filename>
+  <path>E:\od\images\train\image114.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>555</width>
+    <height>321</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>243</xmin>
+      <ymin>112</ymin>
+      <xmax>332</xmax>
+      <ymax>275</ymax>
+    </bndbox>
+  </object>
+</annotation>

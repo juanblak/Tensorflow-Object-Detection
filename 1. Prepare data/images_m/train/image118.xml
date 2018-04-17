@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>image118</filename>
+  <path>E:\od\images\train\image118.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>179</width>
+    <height>459</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>28</ymin>
+      <xmax>160</xmax>
+      <ymax>403</ymax>
+    </bndbox>
+  </object>
+</annotation>
